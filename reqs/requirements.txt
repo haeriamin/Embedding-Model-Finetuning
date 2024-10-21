@@ -1,0 +1,18 @@
+llama-index-llms-huggingface==0.3.4
+google-ai-generativelanguage==0.6.4
+llama-index-llms-gemini==0.3.6
+llama-index-finetuning==0.2.0
+sentence-transformers==3.1.1
+google-generativeai==0.5.4
+transformers==4.45.2
+llama-index==0.11.16
+bitsandbytes==0.44.1
+ipywidgets==8.1.5
+openparse==0.6.0
+pymupdf==1.24.11
+# vertexai==1.70.0
+datasets==3.0.1
+
+torch==2.4.1+cu118
+torchaudio==2.4.1+cu118
+torchvision==0.19.1+cu118

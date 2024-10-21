@@ -1,0 +1,378 @@
+{
+    "queries": {
+        "8994004f-9db4-4f77-a7b7-d9fb0efcf3eb": "**Question 1:**",
+        "a81a37e3-a11c-46a9-9eb7-86547407259a": "What is the purpose of the \"Stress Testing - Guideline\"?",
+        "152d0a77-eb77-43fd-8fdf-3ee3b28049b9": "**Question 1 (Methodology and Scenario Selection):**",
+        "e9ab686d-8375-4aea-8329-bd3953b638d5": "Explain the importance of integrating stress testing activities across business lines and product lines to provide a comprehensive view of institution-wide risk.",
+        "37add766-ef4f-45c6-bd79-ffd6fe69e438": "**Question 1:**",
+        "0fc61056-f856-439a-bc1f-d8d292408c02": "What are the primary areas where stress testing is utilized by senior management in the context of business decision-making?",
+        "1b44f627-882b-41af-a866-d288880eeaa8": "**Question 1:**",
+        "4e5f114f-b811-4c54-ac8a-ca5684aa7877": "Define stress testing and explain its purpose in risk management.",
+        "85a4e255-6445-457d-866f-5c2e2d3e7731": "**Question 1:**",
+        "669ef4ee-1e27-4061-b5df-0a18543ac417": "Why is stress testing particularly crucial after extended periods of economic stability?",
+        "fee84ab7-7ded-49ea-bed1-af67a3a87249": "**Question 1:**",
+        "34f13636-1c31-4633-85e1-6385525bd84c": "Explain the role of stress testing in enterprise-wide risk management and its significance in decision-making.",
+        "5cae51ea-a13f-4f0a-b9a2-0c0e87de2d2b": "**Question 1:**",
+        "c4d54bb4-af37-4fa8-96b7-45b0b5b2ca2d": "Explain how stress testing should be integrated into an institution's risk management activities, considering the various levels and types of risks it can address.",
+        "e9528512-e430-4079-8301-d350587ca635": "**Question 1:**",
+        "ed9d288c-5b04-4e84-b08c-485fe95231d9": "How does stress testing complement other risk quantification methodologies, and what specific insights can it provide?",
+        "64e96da0-546e-4285-a48d-4972cc004e6c": "**Question 1:**",
+        "9a250c46-5fce-44ec-888f-d0963e1e2302": "Explain how stress testing can be used to evaluate the resilience of financial models to unforeseen economic and financial conditions.",
+        "f562df49-b9c7-4ff8-ba13-0439e9f44de6": "**Question 1 (Multiple Choice):**",
+        "643c51ce-c06c-40b4-8d1f-14a157e6216e": "Which of the following is a primary purpose of stress testing in liquidity management?",
+        "60495ef1-9632-47fa-9bd2-3e8028a37ab9": "**Question 1:**",
+        "f6b294a1-fbbb-4276-91f1-e430a49386c9": "According to the text, what is the primary responsibility of senior management in the stress testing program?",
+        "a5309357-1f9e-47d1-8981-8bb7fd72fc07": "**Question 1:**",
+        "6881e101-3575-4161-bc08-6c4520ac1ec8": "Explain the role of senior management in identifying and articulating the institution's risk appetite.",
+        "de740648-f0af-4e52-bdca-b496ca90af63": "**Question 1 (Quantitative)**",
+        "dc7f5a6d-3ad1-45eb-b154-2ffa283d2e23": "Explain the role of different senior experts in the stress testing process, as highlighted in the context information.",
+        "16e1b9fb-4661-43ec-afb6-24dd93bf56d0": "**Question 1:**",
+        "72313573-c094-4a42-b7d7-78154b82c2e1": "What are the key assumptions and elements that should be documented in stress testing exercises?",
+        "b9a24b0a-f2d3-44c1-9136-81688ce7431d": "**Question 1:**",
+        "218ba8f3-e67b-4228-8a70-7efbeba4e854": "How does the infrastructure facilitate the timely reporting of risks and exposures to senior management?",
+        "ae1ba142-f031-4cc4-878b-3434e53fdbb6": "**Question 1:**",
+        "4d9e5fd5-ec39-47e6-806a-ae069a32ea0d": "Explain how the infrastructure and information systems for stress testing should align with the characteristics of an institution.",
+        "407f3844-b487-4898-a624-8914e3510f48": "**Question 1 (Qualitative Assessment):**",
+        "05e3deab-b0ac-4c75-925e-f842b924362d": "Discuss the importance of qualitative assessments in evaluating the effectiveness of a program, considering the significance of judgments and the severity of shocks considered.",
+        "f1e386db-98d9-4089-96af-7c20272d2ea8": "**Question 1:**",
+        "a0e1217c-ab17-4295-ba39-ae1feea866d2": "Explain the role of independent control functions, such as risk management and internal audit, in the stress test development and maintenance processes.",
+        "05bf9a40-abb5-4bc6-90df-c03773976274": "**Question 1:**",
+        "81a4cccf-f030-428e-b60e-84a9f9b2ca25": "Explain the importance of integrating stress testing activities across different business areas and the institution as a whole.",
+        "13bc861a-c5a9-4f88-8e4b-7f050313f553": "**Question 1:**",
+        "7b7d6348-aaac-4e1d-9c1c-cfab9a8a87a5": "According to the context, what are the three specific views that stress testing programs should cover?",
+        "83ded8ef-02ef-4e49-9841-42dee9bdf601": "**Question 1:**",
+        "5e07453b-9528-4142-851b-f60f0a696c58": "Explain the concept of \"cash flow mismatch\" and discuss its potential impact on a company's financial health.",
+        "c643e510-8d3c-42eb-9943-9dc054dedf2b": "**Question 1:**",
+        "dc3dfd40-881a-49a5-baa6-29d2665073bf": "What factors influence the selection of measures used to evaluate the impact of stress tests?",
+        "6dcd50d6-c747-482f-a28f-819b7bd61a68": "**Question 1:**",
+        "7e778326-e94d-4e79-b2cb-a9c73a5c3883": "Explain the difference between economic profit and loss and regulatory capital.",
+        "6a959a6e-809b-4c35-a607-20dfcb492db2": "**Question 1:**",
+        "5001dfab-d30a-493e-9da3-e56909208c55": "Explain how conducting stress tests \"flexibly and imaginatively\" can enhance the identification of vulnerabilities.",
+        "f400e4f8-7c0d-4524-86c8-c8c23d909809": "**Question 1:**",
+        "1ade5137-dde1-436f-9e84-37fed03cbf6e": "Explain the importance of conducting firm-wide and comprehensive stress tests in identifying and managing risk concentrations.",
+        "cdedeb06-9cc5-4278-8807-052a8b458a48": "**Question 1:**",
+        "d72f4962-d360-47c1-9fa6-5f3e72b8a8b3": "Explain the concept of a reverse stress test and provide an example of a specified outcome that would trigger such a test.",
+        "a4041752-ec84-4fbf-81f0-891b8f7122ea": "**Question 1 (Conceptual Understanding):**",
+        "4df65d6a-c203-4c3a-a783-185d9bd62626": "Explain how funding and asset markets can be interconnected during periods of stress and why it is important to consider this in stress testing practices.",
+        "3a0b15b6-078d-4cfd-985b-de42da4a6870": "**Question 1:**",
+        "77836405-3eee-4ea0-8abe-19577f49b2cf": "Explain how changes in economic conditions can impact policyholder behavior for a life insurer.",
+        "4eb00b49-8a29-4d8f-82a0-d0af113f29d9": "**Question 1:**",
+        "553f6405-9e29-4044-9a89-b345093c83d3": "Explain how stress testing can contribute to the development of effective risk mitigation plans.",
+        "647874e0-8554-4b86-8828-13ec3ebfb28f": "**Question 1:**",
+        "9a87628a-07c1-4e51-a671-121e7e510587": "What specific types of products should be explicitly covered in stress testing programs, according to the provided context?",
+        "6e340c55-4d24-41a5-b59d-90dda690d52c": "**Question 1:**",
+        "d4b03a96-11bd-4f9f-9b39-a5245efddf93": "What are the three main categories of risks that should be covered in pipeline and warehousing stress testing programs?",
+        "4a7a6ca9-9a01-4cf8-b40d-37430bba9745": "**Question 1:**",
+        "1756a386-6a6b-4fb4-9191-54693d3dcb43": "Explain how enhancing stress testing methodologies can capture the impact of reputational risks.",
+        "eda71ccb-461f-4734-b6d5-6fdd57236d3a": "**Question 1:**",
+        "622e46c6-d36f-4fec-bbaa-88e1fe2ffa83": "Explain the importance of integrating risks from off-balance sheet vehicles and related entities into an institution's stress testing program.",
+        "75db55a1-004a-4e62-b820-3249f32040b5": "**Question 1:**",
+        "24822954-4be4-49d7-bad5-6f47dbdae670": "Explain the potential risks associated with institutions having large gross exposures to leveraged counterparties.",
+        "f9d8cd1f-8efc-4d0f-a73b-90402bed08d0": "**Question 1:**",
+        "c4f0b792-9237-41ed-9632-096d8cec838e": "Explain the concept of \"concentrations in single risk factors\" and provide an example from the context information.",
+        "479e2100-a5ee-49d0-af77-416a547bc7cb": "**Question 1:**",
+        "3da64884-092b-4386-8328-f843d1bb7233": "How does OSFI incorporate stress testing into its supervisory review process?",
+        "69f84afd-92aa-41b7-aaba-83933ec7541a": "**Question 1:**",
+        "e520f027-013a-48f9-a8f6-12ca32abf65d": "How does the institution ensure that the scenarios used in stress testing align with its established risk appetite?",
+        "9e0eab18-b7ba-4d20-833d-1462755bf4e7": "**Question 1:**",
+        "25ce01b4-c617-43ff-8d77-e0b418962b2a": "Explain how the business unit level facilitates the integration of the FCT process with the annual business plan.",
+        "0b574af3-3513-4c88-b5cf-f8b6b8f58ee8": "**Question 1:**",
+        "94bd016b-0d32-418f-9ae4-42a1ded94614": "Explain how OSFI considers the potential impact of adverse scenarios on the transferability of capital within financial groups.",
+        "d8c02e31-38ff-4b4b-99cc-88fe57945011": "**Question 1:**",
+        "47ea6f5e-611a-478c-99a9-8e269730c7f2": "Explain the purpose of scenario testing in risk management.",
+        "b4c07556-79f1-4289-b074-3bc00e35e0ad": "**Question 1:**",
+        "23ad299f-3701-46a1-8a95-16f15f9ee725": "Describe the primary purpose and characteristics of sensitivity testing in risk assessment."
+    },
+    "corpus": {
+        "93013b89-bd7d-475d-b355-7da0b32e953f": "**Guideline**<br><br>**Title**\nStress Testing \u2013 Guideline (2009)<br><br>**Category**\nSound Business and Financial Practices<br><br>**Date**\nDecember 31, 2009<br><br>**Sector**\nBanks<br><br>Life Insurance and Fraternal Companies<br><br>Property and Casualty Companies<br><br>Trust and Loan Companies<br><br>**No**\nE-18<br><br>Table of Contents",
+        "90b0680a-38ee-4104-9e06-52e2eccbbead": "A. Stress Testing Defined<br><br>B. Purposes of Stress Testing<br><br>C. Role of Senior Management<br><br>D. General Considerations for Stress Testing Programs<br><br>Stress testing programs should take account of views from across the organisation and should cover a range of<br><br>perspectives and techniques<br><br>Institutions should have written policies and procedures governing the stress testing program. The operation<br><br>of the program should be appropriately documented<br><br>An institution should have a suitably robust infrastructure in place, which is sufficiently flexible to<br><br>accommodate different and possibly changing stress tests at an appropriate level of granularity<br><br>An institution should regularly maintain and update its stress testing framework. The effectiveness of the<br><br>stress testing program, as well as the robustness of individual components, should be assessed regularly and<br><br>independently.<br><br>E. Methodology and Scenario Selection<br><br>*Stress tests should cover a range of risks and business areas, as well as at the institution-wide level. An institution*<br><br>*should be able to integrate effectively, in a meaningful fashion, across the range of its stress testing activities to*<br><br>*deliver a complete picture of institution-wide risk.*<br><br>Stress testing programs should apply across business and product lines and cover a range of scenarios,<br><br>including non-historical scenarios, and aim to take into account system-wide interactions and feedback effects<br><br>(e.g., second order and macroeconomic effects)<br><br>Stress tests should feature a range of severities, including events capable of generating the most damage,<br><br>whether through size of loss or through loss of reputation. A stress testing program should also determine<br><br>what scenarios could challenge the viability of the institution (reverse stress tests). Such tests may be useful in<br><br>uncovering hidden risks and interactions among risks<br><br>F. Specific Areas of Focus<br><br>Risk Mitigation<br><br>Securitization and Warehousing Risks<br><br>Risks to Reputation<br><br>Counterparty Credit risk<br><br>Risk Concentrations<br><br>G. Supervisory Considerations<br><br>Glossary<br><br>Scenario testing<br><br>Sensitivity testing<br><br>Footnotes",
+        "3f025bc2-c730-4daa-a3db-411428e04647": "Stress testing is an important tool for senior management to use in making business strategy, risk management and<br><br>capital management decisions. This guideline sets out OSFI's expectations with respect to stress testing and applies<br><br>to banks and bank holding companies, and to all federally regulated trust and loan companies, cooperative credit<br><br>associations, life insurance companies and fraternal benefit societies, property and casualty insurance companies",
+        "3c3ce7a4-0736-4397-bd14-9df699b7442b": "Stress testing is a risk management technique used to evaluate the potential effects on an institution's financial<br><br>condition, of a set of specified changes in risk factors, corresponding to exceptional but plausible events   1   . Stress<br><br>testing includes scenario testing and sensitivity testing (refer to Glossary).",
+        "989f58e1-b299-4558-82cc-a9f893c083e6": "Stress testing is especially important after long periods of benign economic and financial conditions, when fading<br><br>memory of negative conditions can lead to complacency and the underpricing of risk. It is also a key risk<br><br>management tool during periods of expansion, when innovation leads to new products that grow rapidly and for<br><br>which limited or no historical experience is available.",
+        "0b6ca02f-1e7a-401f-8237-90df79a4b15e": "Stress testing should be embedded in enterprise wide risk management. A stress testing program as a whole should<br><br>be actionable, playing an important role in facilitating the development of risk mitigation or contingency plans<br><br>across a range of stressed conditions. It should feed into the institution's decision making process, including setting<br><br>the institution's risk appetite, setting exposure limits, and evaluating strategic choices in longer term business<br><br>planning.",
+        "8061f809-997c-4ea4-9593-734fdf8ab817": "i.**Risk identification and control**\u2013 Stress testing should be included in an institution's risk management<br><br>activities at various levels, for example, ranging from risk mitigation policies at a detailed or portfolio level to<br><br>adjusting the institution's business strategy. In particular, it should be used to address institution-wide risks,<br><br>and consider the concentrations and interactions between risks in stress environments that might otherwise",
+        "645058b6-e6d1-4265-a705-a2f09586b7ea": "ii.**Providing a complementary risk perspective to other risk management tools**\u2013 Stress tests should<br><br>complement risk quantification methodologies that are based on complex, quantitative models using<br><br>backward looking data and estimated statistical relationships. In particular, stress testing outcomes for a<br><br>particular portfolio can provide insights about the validity of statistical models at high confidence intervals,<br><br>for example those used to determine VaR.",
+        "0e48fab3-45b1-4579-848a-c4b56a22d788": "As stress testing allows for the simulation of shocks which have not previously occurred, it should be used to<br><br>assess the robustness of models to possible changes in the economic and financial environment. Stress tests<br><br>should help to detect vulnerabilities such as unidentified risk concentrations or potential interactions<br><br>between types of risk that could threaten the viability of the institution, but may be concealed when relying<br><br>purely on statistical risk management tools based on historical data.",
+        "e3629849-8c9e-4474-99ab-dd2d350ded58": "iv.**Improving liquidity management**\u2013 Stress testing should be a central tool in identifying, measuring and<br><br>controlling funding liquidity risks, in particular for assessing the institution's liquidity profile and the adequacy<br><br>of liquidity buffers in case of both institution-specific and market-wide stress events.",
+        "535debbe-8b70-4f8e-993d-8371eeccbb90": "Senior management (including, in the case of foreign insurance or bank branches, branch management)<br><br>involvement in the stress testing program is essential for its effective operation. Senior management is accountable<br><br>for the program's implementation, management and oversight and for ensuring that the institution has adequate<br><br>plans to deal with remote but plausible stress scenarios.",
+        "f0d593f7-d9ec-4219-a655-690bd9974989": "Senior management should be able to identify and clearly articulate the institution's risk appetite and understand<br><br>the impact of stress events on the risk profile of the institution. Senior management must participate in the review<br><br>and identification of potential stress scenarios, as well as contribute to the development and implementation of risk<br><br>mitigation strategies. In addition, senior management should consider an appropriate number of well-understood,<br><br>documented, utilised and sufficiently severe scenarios that are relevant to their institution.",
+        "84ccdd3b-faf8-490a-a9ba-ba5f042498db": "The identification of relevant stress events, the application of sound modelling approaches and the appropriate use<br><br>of stress testing results each require the collaboration of different senior experts such as risk controllers,<br><br>economists, business managers, traders and actuaries. Institutions should also use a range of techniques in order<br><br>to achieve comprehensive coverage in their stress testing program, including quantitative and qualitative<br><br>techniques to support and complement models and to extend stress testing to areas where effective risk<br><br>management requires greater use of judgement.",
+        "758d99c5-7374-40da-84e7-4c563564558c": "The assumptions and fundamental elements for each stress testing exercise should be appropriately documented,<br><br>including the reasoning and judgements underlying the scenarios chosen and the sensitivity of stress testing results<br><br>to the range and severity of the scenarios. The level of documentation should be based on the nature and purposes<br><br>of the stress testing. For example, documentation of ad hoc sensitivity tests for tactical decisions may be less<br><br>elaborate than the documentation of enterprise-wide stress tests used for strategic decision making. An evaluation<br><br>of fundamental assumptions should be performed regularly or in light of changing external conditions. The results<br><br>of the assessments should also be documented.<br><br>An institution should have a suitably robust infrastructure in place, which is sufficiently flexible<br><br>to accommodate different and possibly changing stress tests at an appropriate level of<br><br>granularity",
+        "e4505aa5-e875-4e42-80ec-c9caeae655c6": "The infrastructure should be able to aggregate comparable risks and exposures across the institution. It should<br><br>allow for reporting to senior management in a timely manner throughout the fiscal year. The infrastructure and<br><br>information systems should be sufficiently flexible to accommodate a timely increase in the frequency of ad hoc<br><br>sensitivity testing to support senior management's response to rapid changes in the operating environment and<br><br>also for purposes of responding to the concerns of external stakeholders and regulators.",
+        "c259ad5a-623b-439e-8184-62c84017c104": "An institution's stress testing infrastructure and information systems should be commensurate with the nature and<br><br>complexity of the institution and its risk profile. For example, greater risk factor volatility and shorter time horizons<br><br>for management actions require infrastructure and information systems that accommodate more frequent stress<br><br>testing in those areas.",
+        "d6a76431-b586-4d75-bbb0-89f995816c4b": "Assessments of effectiveness should be qualitative as well as quantitative, given the importance of judgments and<br><br>the severity of shocks considered. Areas for assessment should include effectiveness of the program in meeting its<br><br>intended purposes, documentation, development work, system implementation, management oversight, data<br><br>quality and hypotheses and assumptions used.",
+        "e19348bb-73aa-4651-9d8a-fde14270b59a": "Since the stress test development and maintenance processes often imply judgmental and expert decisions (e.g.<br><br>assumptions to be tested, calibration of the stress, etc.), the independent control functions such as risk<br><br>management and internal audit should also play a key role in the process. In particular there should be an<br><br>independent review (e.g., by internal audit) of the adequacy of the design and effectiveness of the operations of an<br><br>institution's stress testing programs.",
+        "b6817b4b-85b1-495e-8492-679d9275262b": "E. Methodology and Scenario Selection<br><br>*Stress tests should cover a range of risks and business areas, as well as at the institution-wide level.*<br><br>*An institution should be able to integrate effectively, in a meaningful fashion, across the range of its*<br><br>*stress testing activities to deliver a complete picture of institution-wide risk.*",
+        "d4ce0bc1-5e0c-4848-85ba-b53f15cad788": "A stress testing program should consistently and comprehensively cover product-, business- and entity-specific<br><br>views. Using a level of granularity appropriate to the purpose of the stress test, stress testing programs should<br><br>examine the effect of shocks across all relevant risk factors, taking into account interrelations among them.",
+        "ea7ae74a-515e-4763-8417-a05abf4cdc46": "*general market*<br><br>*specific*<br><br>*cash flow mismatch*<br><br>*interest rate*<br><br>*foreign exchange*<br><br>*commodity*<br><br>insurance risk, e.g.,<br><br>*mortality*<br><br>*morbidity*<br><br>*claim frequency and severity*<br><br>*persistency and lapse risk*<br><br>*liquidity risk*<br><br>*operational and legal risk*<br><br>*concentration risk*<br><br>*contagion risk*<br><br>*risk to reputation*<br><br>*securitization risk*<br><br>*new business risk*<br><br>*regulatory risk*<br><br>*inflation risk*",
+        "f8dea890-a3d2-4d2b-8d11-b2d0ebd691d5": "The impact of stress tests is usually evaluated using one or more measures. The particular measures used will<br><br>depend on the specific purpose of the stress test, the risks and portfolios being analysed and the particular issue<br><br>under examination. A range of measures may need to be considered to convey an adequate impression of the<br><br>impact. Typical measures used are:",
+        "9f3e98a3-09ee-4bb1-ba81-91db3f4ff3ba": "economic profit and loss<br><br>required and available regulatory capital<br><br>economic capital<br><br>liquidity and funding gaps<br><br>Stress testing programs should apply across business and product lines and cover a range of<br><br>scenarios, including non-historical scenarios, and aim to take into account system-wide<br><br>interactions and feedback effects (e.g., second order and macroeconomic effects)",
+        "d529cf45-c9b4-479e-8868-20fdb15d366c": "Stress tests should be conducted flexibly and imaginatively, in order to improve the likelihood of identifying hidden<br><br>vulnerabilities. A \"failure of imagination\" could lead to an underestimation of the likelihood and severity of extreme<br><br>events and to a false sense of security about an institution's resilience.",
+        "8f724054-4bb2-4eb4-bbea-d4c7583ada49": "Institutions should use stress tests to identify, monitor and control risk concentrations. To adequately address risk<br><br>concentrations, the scenario should to be firm-wide and comprehensive, covering balance sheet and off-balance<br><br>sheet assets, contingent and non-contingent risks, and should give due consideration to actions beyond contractual<br><br>obligations that might be undertaken to preserve reputation. Further, stress tests should identify and respond to<br><br>potential changes in market conditions that could adversely impact an institution's exposure to risk concentrations.<br><br>Stress tests should feature a range of severities, including events capable of generating the<br><br>most damage, whether through size of loss or through loss of reputation. A stress testing<br><br>program should also determine what scenarios could challenge the viability of the institution<br><br>(reverse stress tests). Such tests may be useful in uncovering hidden risks and interactions<br><br>among risks",
+        "521044c5-86c7-41cb-b17a-32dcd66a1a23": "Institutions should conduct reverse stress tests. A reverse stress test starts with a specified outcome that challenges<br><br>the viability of the firm. One example of such an outcome would be that over a short time period, the firm incurs a<br><br>very large loss that challenges its viability. The analysis would then work backward (reverse engineered) to identify a<br><br>scenario or combination of scenarios that could bring about such a specified outcome. The reverse stress test<br><br>induces institutions to consider scenarios beyond normal business settings that would include events with<br><br>contagion and systemic implications.",
+        "82e11824-f849-446a-a736-eada703e7056": "As part of an overall stress testing program, a deposit-taking institution should aim to take account of simultaneous<br><br>pressures in funding and asset markets, and the impact of a reduction in market liquidity on asset valuation.<br><br>Funding and asset markets may be strongly interrelated, particularly during periods of stress. An institution should<br><br>enhance its stress testing practices by considering important interrelations between various factors, including price<br><br>shocks for specific asset categories; the drying-up of corresponding asset liquidity; the possibility of significant<br><br>losses damaging the institution's financial strength; growth of liquidity needs as a consequence of liquidity<br><br>commitments; taking on board affected assets; and diminished access to secured or unsecured funding markets.   2 ",
+        "6123d6e6-8b99-4e9a-9f5c-1a39bb250013": "As part of an overall stress testing program at an insurance company, specific consideration should be given to<br><br>important interrelations between various risk factors. For a life insurer, changes in economic conditions can<br><br>significantly affect policyholder behaviour such as lapse rates, utilization of options within an insurance contract,<br><br>and morbidity and recovery rates. For a property and casualty insurer, changing economic conditions will not only<br><br>influence investment income and company expenses, but can also, particularly in times of inflation, lead to higher<br><br>claims and loss reserves. The interrelations of various factors will depend upon the insurer's products, its<br><br>investment policy and its approach to managing its business. A critical goal for insurers is to identify situations in<br><br>which the assumed normal pattern of interrelationships breaks down due to a change in the business environment.",
+        "7119654d-2d2a-4049-bf09-271e0a288646": "Stress testing should facilitate the development of risk mitigation or contingency plans across a range of stressed<br><br>conditions. The performance of risk mitigating techniques, like reinsurance, hedging, netting and the use of<br><br>collateral, should be challenged and assessed systematically under stressed conditions when markets may not be<br><br>fully functioning and multiple institutions simultaneously could be pursuing similar risk mitigating strategies.",
+        "2b55b225-77cf-44d7-a826-e4f6b819ef33": "The stress testing program should explicitly cover complex and customized products such as securitized exposures.<br><br>Stress tests for securitized assets should consider the underlying assets, their exposure to systemic market factors,<br><br>relevant contractual arrangements and embedded triggers, and the impact of leverage, particularly as it relates to<br><br>the subordination level in the issue structure.",
+        "b961dbcd-f7c5-4435-b368-1421cdb18d0e": "The stress testing program should cover pipeline and warehousing risks. These are market, credit and funding risks<br><br>arising in the period prior to securitization or sale and which may arise from the need to hold assets for longer<br><br>periods than originally planned when markets are disrupted. An institution should include such exposures in its<br><br>stress tests regardless of their probability of being securitized. Many of the risks associated with pipeline and<br><br>warehoused exposures emerge when an institution is unable to access the securitization or other markets due to<br><br>either institution specific or market stresses.<br><br>o\n Office of the Superintendent of Financial Institutions",
+        "bc487675-47b7-4b61-93b0-1f2b2dd35554": "An institution should enhance its stress testing methodologies to capture the effect of risks to reputation. To<br><br>mitigate reputational spill-over effects and maintain market confidence, an institution should have an approach to<br><br>assess the impact of risks to reputation on other risk types.",
+        "a076609f-3f10-4ed9-8cb8-dd93fe5a0805": "The institution should integrate risks arising from off-balance sheet vehicles and other related entities in its stress<br><br>testing program. An institution should carefully assess the risks associated with commitments to off-balance sheet<br><br>vehicles related to structured credit securities and the possibility that assets will need to be taken on balance sheet<br><br>for reputational reasons. Therefore, in its stress testing program, an institution should include scenarios assessing<br><br>the size and soundness of such vehicles relative to its own financial, liquidity and regulatory capital positions. This<br><br>analysis should include structural, solvency, liquidity and other risk issues, including the effects of covenants and<br><br>triggers.<br><br>Counterparty Credit risk",
+        "e8f14033-c033-4c66-82fb-9d0ca8675f6d": "An institution may have large gross exposures to leveraged counterparties, including hedge funds, financial<br><br>guarantors, investment banks and derivatives counterparties that may be particularly exposed to specific asset<br><br>types and market movements. Under normal conditions, these exposures are typically completely secured by<br><br>posted collateral and continuous re-margining agreements yielding zero or very small net exposures. In the case of<br><br>severe market shocks, however, these exposures may increase abruptly. The potential cross-correlation of the<br><br>creditworthiness of derivative counterparties with the risks of the reference assets may emerge (i.e., wrong-way<br><br>risk). An institution should ensure that its stress testing approaches related to derivative counterparties are robust<br><br>in their capture of such correlated tail risks.<br><br>Risk Concentrations",
+        "d64331c8-8918-43ff-a803-1187db9a3d46": "single name concentrations<br><br>concentrations in regions or industries<br><br>concentrations in single risk factors<br><br>concentrations in indirect exposures via posted collateral or hedge positions<br><br>concentrations in off-balance sheet exposure, contingent exposure or non-contractual obligations by<br><br>reputational reasons",
+        "fac5a1a3-5b26-4e25-b999-eb1f571a65f5": "OSFI reviews institutions' stress testing programs as part of the supervisory review process as described in the<br><br>Supervisory Framework, and as part of its review of a deposit-taking institution's Internal Capital Adequacy<br><br>Assessment Process (ICAAP). For insurers, one example of stress testing is Financial Condition Testing (FCT). OSFI<br><br>expects to see evidence that stress testing is integrated into institutions' internal risk management processes.",
+        "32f7886d-7660-4433-85d5-d02c9cfc339e": "i. Evaluate whether scenarios chosen are consistent with the risk appetite the institution has set for itself.<br><br>ii. Assess whether scenarios are appropriate to the portfolio of the institution and that they include severe<br><br>shocks and periods of severe and sustained downturn. The scenarios chosen should also include, where<br><br>relevant, an episode of market turbulence or a shock to market liquidity.<br><br>iii. Assess whether the frequency and timing of stress testing is sufficient to support timely management action.<br><br>For example, stress testing and FCT are complementary initiatives. More frequent stress testing at the",
+        "d5174dce-8162-4390-b195-b762e41c5fdd": "business unit level facilitates timely reaction to sudden market developments. It also supports the integration<br><br>of the FCT process with the finalization of an annual business plan by providing timely inputs based on<br><br>current information. While it is up to each institution to determine how to best integrate FCT and other stress<br><br>testing into its business planning process to achieve the maximum benefits, ideally the annual FCT of an<br><br>insurance company would be available to the Board of Directors or branch management as soon as is<br><br>reasonably possible; in all cases the annual FCT should be submitted to OSFI within 30 days of its<br><br>presentation to the Board of Directors or branch management.<br><br>iv. Ask institutions to evaluate scenarios under which viability is compromised and may ask institutions to test<br><br>scenarios specific to different lines of business, to assess the plausibility of events that could materialize in<br><br>significant strategic or reputational risk, in particular for business lines with significant balance sheet<br><br>exposures.<br><br>v. Ask institutions, from time to time, to carry out standardized:<br><br>sensitivity tests for individual businesses/products given evolving market conditions or<br><br>scenario tests for use by OSFI to assess system wide vulnerabilities.<br><br>vi. Examine the future capital resources and capital requirements under adverse scenarios. In particular, OSFI<br><br>would consider the results of forward-looking stress testing for assessing the adequacy of capital buffers.",
+        "db37c702-79b1-4684-bcdf-c182535a307c": "vii. Take account of the extent to which capital might not be freely transferable within groups under adverse<br><br>scenarios. OSFI would also consider the possibility a crisis impairs the ability of even very healthy institutions<br><br>to raise funds at reasonable cost.<br><br>viii. Review the range of management actions envisaged by institutions in response to the results of the stress<br><br>testing exercise and be able to understand the rationale for the management body decision to take or not to<br><br>take remedial actions. Supervisors may challenge whether such actions will be available in a period of stress<br><br>and whether the institution will realistically be able and willing to take such actions.<br><br>ix. Make recommendations to an institution to take appropriate remedial action to address weaknesses in its<br><br>stress testing program.",
+        "a6285961-802d-468d-9b95-407348e9f12a": "Scenario testing uses a hypothetical future state of the world to define changes in risk factors affecting an<br><br>institution's operations. This will normally involve changes in a number of risk factors, as well as ripple effects that<br><br>are other impacts that follow logically from these changes and related management and regulatory actions.<br><br>Scenario testing is typically conducted over the time horizon appropriate for the business and risks being tested.<br><br>Sensitivity testing",
+        "5e0b1c2d-b212-4efb-b85f-887eeda85878": "Sensitivity testing typically involves an incremental change in a risk factor (or a limited number of risk factors). It is<br><br>typically conducted over a shorter time horizon, for example an instantaneous shock. Sensitivity testing requires<br><br>fewer resources than scenario testing and can be used as a simpler technique for assessing the impact of a change<br><br>in risks when a quick response or when more frequent results are needed.<br><br>Stress Testing"
+    },
+    "relevant_docs": {
+        "8994004f-9db4-4f77-a7b7-d9fb0efcf3eb": [
+            "93013b89-bd7d-475d-b355-7da0b32e953f"
+        ],
+        "a81a37e3-a11c-46a9-9eb7-86547407259a": [
+            "93013b89-bd7d-475d-b355-7da0b32e953f"
+        ],
+        "152d0a77-eb77-43fd-8fdf-3ee3b28049b9": [
+            "90b0680a-38ee-4104-9e06-52e2eccbbead"
+        ],
+        "e9ab686d-8375-4aea-8329-bd3953b638d5": [
+            "90b0680a-38ee-4104-9e06-52e2eccbbead"
+        ],
+        "37add766-ef4f-45c6-bd79-ffd6fe69e438": [
+            "3f025bc2-c730-4daa-a3db-411428e04647"
+        ],
+        "0fc61056-f856-439a-bc1f-d8d292408c02": [
+            "3f025bc2-c730-4daa-a3db-411428e04647"
+        ],
+        "1b44f627-882b-41af-a866-d288880eeaa8": [
+            "3c3ce7a4-0736-4397-bd14-9df699b7442b"
+        ],
+        "4e5f114f-b811-4c54-ac8a-ca5684aa7877": [
+            "3c3ce7a4-0736-4397-bd14-9df699b7442b"
+        ],
+        "85a4e255-6445-457d-866f-5c2e2d3e7731": [
+            "989f58e1-b299-4558-82cc-a9f893c083e6"
+        ],
+        "669ef4ee-1e27-4061-b5df-0a18543ac417": [
+            "989f58e1-b299-4558-82cc-a9f893c083e6"
+        ],
+        "fee84ab7-7ded-49ea-bed1-af67a3a87249": [
+            "0b6ca02f-1e7a-401f-8237-90df79a4b15e"
+        ],
+        "34f13636-1c31-4633-85e1-6385525bd84c": [
+            "0b6ca02f-1e7a-401f-8237-90df79a4b15e"
+        ],
+        "5cae51ea-a13f-4f0a-b9a2-0c0e87de2d2b": [
+            "8061f809-997c-4ea4-9593-734fdf8ab817"
+        ],
+        "c4d54bb4-af37-4fa8-96b7-45b0b5b2ca2d": [
+            "8061f809-997c-4ea4-9593-734fdf8ab817"
+        ],
+        "e9528512-e430-4079-8301-d350587ca635": [
+            "645058b6-e6d1-4265-a705-a2f09586b7ea"
+        ],
+        "ed9d288c-5b04-4e84-b08c-485fe95231d9": [
+            "645058b6-e6d1-4265-a705-a2f09586b7ea"
+        ],
+        "64e96da0-546e-4285-a48d-4972cc004e6c": [
+            "0e48fab3-45b1-4579-848a-c4b56a22d788"
+        ],
+        "9a250c46-5fce-44ec-888f-d0963e1e2302": [
+            "0e48fab3-45b1-4579-848a-c4b56a22d788"
+        ],
+        "f562df49-b9c7-4ff8-ba13-0439e9f44de6": [
+            "e3629849-8c9e-4474-99ab-dd2d350ded58"
+        ],
+        "643c51ce-c06c-40b4-8d1f-14a157e6216e": [
+            "e3629849-8c9e-4474-99ab-dd2d350ded58"
+        ],
+        "60495ef1-9632-47fa-9bd2-3e8028a37ab9": [
+            "535debbe-8b70-4f8e-993d-8371eeccbb90"
+        ],
+        "f6b294a1-fbbb-4276-91f1-e430a49386c9": [
+            "535debbe-8b70-4f8e-993d-8371eeccbb90"
+        ],
+        "a5309357-1f9e-47d1-8981-8bb7fd72fc07": [
+            "f0d593f7-d9ec-4219-a655-690bd9974989"
+        ],
+        "6881e101-3575-4161-bc08-6c4520ac1ec8": [
+            "f0d593f7-d9ec-4219-a655-690bd9974989"
+        ],
+        "de740648-f0af-4e52-bdca-b496ca90af63": [
+            "84ccdd3b-faf8-490a-a9ba-ba5f042498db"
+        ],
+        "dc7f5a6d-3ad1-45eb-b154-2ffa283d2e23": [
+            "84ccdd3b-faf8-490a-a9ba-ba5f042498db"
+        ],
+        "16e1b9fb-4661-43ec-afb6-24dd93bf56d0": [
+            "758d99c5-7374-40da-84e7-4c563564558c"
+        ],
+        "72313573-c094-4a42-b7d7-78154b82c2e1": [
+            "758d99c5-7374-40da-84e7-4c563564558c"
+        ],
+        "b9a24b0a-f2d3-44c1-9136-81688ce7431d": [
+            "e4505aa5-e875-4e42-80ec-c9caeae655c6"
+        ],
+        "218ba8f3-e67b-4228-8a70-7efbeba4e854": [
+            "e4505aa5-e875-4e42-80ec-c9caeae655c6"
+        ],
+        "ae1ba142-f031-4cc4-878b-3434e53fdbb6": [
+            "c259ad5a-623b-439e-8184-62c84017c104"
+        ],
+        "4d9e5fd5-ec39-47e6-806a-ae069a32ea0d": [
+            "c259ad5a-623b-439e-8184-62c84017c104"
+        ],
+        "407f3844-b487-4898-a624-8914e3510f48": [
+            "d6a76431-b586-4d75-bbb0-89f995816c4b"
+        ],
+        "05e3deab-b0ac-4c75-925e-f842b924362d": [
+            "d6a76431-b586-4d75-bbb0-89f995816c4b"
+        ],
+        "f1e386db-98d9-4089-96af-7c20272d2ea8": [
+            "e19348bb-73aa-4651-9d8a-fde14270b59a"
+        ],
+        "a0e1217c-ab17-4295-ba39-ae1feea866d2": [
+            "e19348bb-73aa-4651-9d8a-fde14270b59a"
+        ],
+        "05bf9a40-abb5-4bc6-90df-c03773976274": [
+            "b6817b4b-85b1-495e-8492-679d9275262b"
+        ],
+        "81a4cccf-f030-428e-b60e-84a9f9b2ca25": [
+            "b6817b4b-85b1-495e-8492-679d9275262b"
+        ],
+        "13bc861a-c5a9-4f88-8e4b-7f050313f553": [
+            "d4ce0bc1-5e0c-4848-85ba-b53f15cad788"
+        ],
+        "7b7d6348-aaac-4e1d-9c1c-cfab9a8a87a5": [
+            "d4ce0bc1-5e0c-4848-85ba-b53f15cad788"
+        ],
+        "83ded8ef-02ef-4e49-9841-42dee9bdf601": [
+            "ea7ae74a-515e-4763-8417-a05abf4cdc46"
+        ],
+        "5e07453b-9528-4142-851b-f60f0a696c58": [
+            "ea7ae74a-515e-4763-8417-a05abf4cdc46"
+        ],
+        "c643e510-8d3c-42eb-9943-9dc054dedf2b": [
+            "f8dea890-a3d2-4d2b-8d11-b2d0ebd691d5"
+        ],
+        "dc3dfd40-881a-49a5-baa6-29d2665073bf": [
+            "f8dea890-a3d2-4d2b-8d11-b2d0ebd691d5"
+        ],
+        "6dcd50d6-c747-482f-a28f-819b7bd61a68": [
+            "9f3e98a3-09ee-4bb1-ba81-91db3f4ff3ba"
+        ],
+        "7e778326-e94d-4e79-b2cb-a9c73a5c3883": [
+            "9f3e98a3-09ee-4bb1-ba81-91db3f4ff3ba"
+        ],
+        "6a959a6e-809b-4c35-a607-20dfcb492db2": [
+            "d529cf45-c9b4-479e-8868-20fdb15d366c"
+        ],
+        "5001dfab-d30a-493e-9da3-e56909208c55": [
+            "d529cf45-c9b4-479e-8868-20fdb15d366c"
+        ],
+        "f400e4f8-7c0d-4524-86c8-c8c23d909809": [
+            "8f724054-4bb2-4eb4-bbea-d4c7583ada49"
+        ],
+        "1ade5137-dde1-436f-9e84-37fed03cbf6e": [
+            "8f724054-4bb2-4eb4-bbea-d4c7583ada49"
+        ],
+        "cdedeb06-9cc5-4278-8807-052a8b458a48": [
+            "521044c5-86c7-41cb-b17a-32dcd66a1a23"
+        ],
+        "d72f4962-d360-47c1-9fa6-5f3e72b8a8b3": [
+            "521044c5-86c7-41cb-b17a-32dcd66a1a23"
+        ],
+        "a4041752-ec84-4fbf-81f0-891b8f7122ea": [
+            "82e11824-f849-446a-a736-eada703e7056"
+        ],
+        "4df65d6a-c203-4c3a-a783-185d9bd62626": [
+            "82e11824-f849-446a-a736-eada703e7056"
+        ],
+        "3a0b15b6-078d-4cfd-985b-de42da4a6870": [
+            "6123d6e6-8b99-4e9a-9f5c-1a39bb250013"
+        ],
+        "77836405-3eee-4ea0-8abe-19577f49b2cf": [
+            "6123d6e6-8b99-4e9a-9f5c-1a39bb250013"
+        ],
+        "4eb00b49-8a29-4d8f-82a0-d0af113f29d9": [
+            "7119654d-2d2a-4049-bf09-271e0a288646"
+        ],
+        "553f6405-9e29-4044-9a89-b345093c83d3": [
+            "7119654d-2d2a-4049-bf09-271e0a288646"
+        ],
+        "647874e0-8554-4b86-8828-13ec3ebfb28f": [
+            "2b55b225-77cf-44d7-a826-e4f6b819ef33"
+        ],
+        "9a87628a-07c1-4e51-a671-121e7e510587": [
+            "2b55b225-77cf-44d7-a826-e4f6b819ef33"
+        ],
+        "6e340c55-4d24-41a5-b59d-90dda690d52c": [
+            "b961dbcd-f7c5-4435-b368-1421cdb18d0e"
+        ],
+        "d4b03a96-11bd-4f9f-9b39-a5245efddf93": [
+            "b961dbcd-f7c5-4435-b368-1421cdb18d0e"
+        ],
+        "4a7a6ca9-9a01-4cf8-b40d-37430bba9745": [
+            "bc487675-47b7-4b61-93b0-1f2b2dd35554"
+        ],
+        "1756a386-6a6b-4fb4-9191-54693d3dcb43": [
+            "bc487675-47b7-4b61-93b0-1f2b2dd35554"
+        ],
+        "eda71ccb-461f-4734-b6d5-6fdd57236d3a": [
+            "a076609f-3f10-4ed9-8cb8-dd93fe5a0805"
+        ],
+        "622e46c6-d36f-4fec-bbaa-88e1fe2ffa83": [
+            "a076609f-3f10-4ed9-8cb8-dd93fe5a0805"
+        ],
+        "75db55a1-004a-4e62-b820-3249f32040b5": [
+            "e8f14033-c033-4c66-82fb-9d0ca8675f6d"
+        ],
+        "24822954-4be4-49d7-bad5-6f47dbdae670": [
+            "e8f14033-c033-4c66-82fb-9d0ca8675f6d"
+        ],
+        "f9d8cd1f-8efc-4d0f-a73b-90402bed08d0": [
+            "d64331c8-8918-43ff-a803-1187db9a3d46"
+        ],
+        "c4f0b792-9237-41ed-9632-096d8cec838e": [
+            "d64331c8-8918-43ff-a803-1187db9a3d46"
+        ],
+        "479e2100-a5ee-49d0-af77-416a547bc7cb": [
+            "fac5a1a3-5b26-4e25-b999-eb1f571a65f5"
+        ],
+        "3da64884-092b-4386-8328-f843d1bb7233": [
+            "fac5a1a3-5b26-4e25-b999-eb1f571a65f5"
+        ],
+        "69f84afd-92aa-41b7-aaba-83933ec7541a": [
+            "32f7886d-7660-4433-85d5-d02c9cfc339e"
+        ],
+        "e520f027-013a-48f9-a8f6-12ca32abf65d": [
+            "32f7886d-7660-4433-85d5-d02c9cfc339e"
+        ],
+        "9e0eab18-b7ba-4d20-833d-1462755bf4e7": [
+            "d5174dce-8162-4390-b195-b762e41c5fdd"
+        ],
+        "25ce01b4-c617-43ff-8d77-e0b418962b2a": [
+            "d5174dce-8162-4390-b195-b762e41c5fdd"
+        ],
+        "0b574af3-3513-4c88-b5cf-f8b6b8f58ee8": [
+            "db37c702-79b1-4684-bcdf-c182535a307c"
+        ],
+        "94bd016b-0d32-418f-9ae4-42a1ded94614": [
+            "db37c702-79b1-4684-bcdf-c182535a307c"
+        ],
+        "d8c02e31-38ff-4b4b-99cc-88fe57945011": [
+            "a6285961-802d-468d-9b95-407348e9f12a"
+        ],
+        "47ea6f5e-611a-478c-99a9-8e269730c7f2": [
+            "a6285961-802d-468d-9b95-407348e9f12a"
+        ],
+        "b4c07556-79f1-4289-b074-3bc00e35e0ad": [
+            "5e0b1c2d-b212-4efb-b85f-887eeda85878"
+        ],
+        "23ad299f-3701-46a1-8a95-16f15f9ee725": [
+            "5e0b1c2d-b212-4efb-b85f-887eeda85878"
+        ]
+    },
+    "mode": "text"
+}
