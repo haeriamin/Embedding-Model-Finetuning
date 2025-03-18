@@ -1,0 +1,11 @@
+,MRR@10,NDCG@10,MAP@100
+Base,38%,43%,39%
+Finetuned,84%,86%,84%
+,,,
+,HitRate@5,Improvement,Embedding Size
+Google text-embedding-004,81%,9%,768
+Cohere embed-english-v3.0,85%,4%,1024
+OpenAI text-embedding-3-large,86%,2%,3072
+MistralAI mistral-embed,87%,1%,1024
+Voyageai voyage-finance-2,88%,0%,1024
+Ours,88%,-,768

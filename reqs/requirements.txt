@@ -1,17 +1,37 @@
+llama-index==0.11.23
+llama-index-core==0.11.23
 llama-index-llms-huggingface==0.3.4
-google-ai-generativelanguage==0.6.4
-llama-index-llms-gemini==0.3.6
 llama-index-finetuning==0.2.0
-sentence-transformers==3.1.1
+llama-index-embeddings-gemini==0.2.2
+llama-index-agent-openai==0.3.4
+llama-index-cli==0.3.1
+llama-index-embeddings-openai==0.2.5
+llama-index-indices-managed-llama-cloud==0.6.0
+llama-index-multi-modal-llms-openai==0.2.3
+llama-index-program-openai==0.2.0
+llama-index-question-gen-openai==0.2.0
+llama-index-readers-file==0.3.0
+llama-index-readers-llama-parse==0.3.0
+llama-index-embeddings-huggingface==0.3.1
+llama-index-embeddings-cohere==0.3
+llama-index-embeddings-mistralai==0.2.0
+llama-index-embeddings-voyageai==0.2.2
+aiolimiter==1.2.1
+voyageai==0.2.4
+
+google-ai-generativelanguage==0.6.4
+sentence-transformers==2.7.0
 google-generativeai==0.5.4
 transformers==4.45.2
-llama-index==0.11.16
+# google-ai-generativelanguage-0.6.15
+# google-generativeai-0.8.4
+
 bitsandbytes==0.44.1
 ipywidgets==8.1.5
 openparse==0.6.0
 pymupdf==1.24.11
-# vertexai==1.70.0
 datasets==3.0.1
+spacy==3.8.3
 
 torch==2.4.1+cu118
 torchaudio==2.4.1+cu118

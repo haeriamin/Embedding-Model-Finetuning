@@ -1,3 +1,6 @@
 venv/
+venv310/
 models/
 reqs/tokens.json
+reqs/tesseract-ocr-w64-setup-v5.2.0.20220712.exe
+paper/
